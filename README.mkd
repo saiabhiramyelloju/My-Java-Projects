@@ -1,0 +1,20 @@
+### :white_check_mark: SimpleJava.java
+- Prints HelloJava
+
+---
+
+### :white_check_mark: Operators.java
+- Arthematic Operators
+- Relational Operators
+- Logical Operators
+
+---
+
+### :fire: Requirements
+- JDK 2.6 VERSION
+
+---
+
+### :rocket: Execution
+- javac `<class name.java>`
+- java `<class name>`
